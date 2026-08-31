@@ -68,9 +68,16 @@ AI-Satellite-Fire-Detection
 - Automatic emergency alerts
 - Industrial safety system integration
 - Mobile application support
-
+  
+## Team Leader
+   Amit Gupta
+   
 ## Team Members
-(Add your team members name here)
+1. Ayush Kumar Modanwal
+2. Amrita Singh
+3. Aradhya Mishra
+4. Amritanshu Patel
+5. Aditya Tripathi
 
 ## Project Status
 Currently under development for Smart India Hackathon 2026.
