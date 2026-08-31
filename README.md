@@ -1,0 +1,1 @@
+# AI-Satellite-Intelligence-for-Industral-Fire-Thermal-Anomaly-Detection
