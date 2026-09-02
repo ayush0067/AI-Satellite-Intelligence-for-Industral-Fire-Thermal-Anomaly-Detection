@@ -1,4 +1,4 @@
-# AI-Satellite-Intelligence-for-Industral-Fire-Thermal-Anomaly-Detection
+# AI-Satellite-Intelligence-for-Industrial-Fire-Thermal-Anomaly-Detection
 
 ## Problem Statement
 Industrial areas me fire aur thermal anomalies ko jaldi detect karna bahut important hai. Late detection se bada accident aur property damage ho sakta hai.
